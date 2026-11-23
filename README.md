@@ -11,10 +11,10 @@ Hello! I'm Belinda Mahachi 😊, a project manager and data analyst with a passi
 *I'm currently a product intern at Utern AI, where I work hand in hand with the CMO to improve product marketing operations.*
 
 **- ✅ Project Management.**
-I coordinate project activities, timelines, and teams ensuring a smooth execution aligned with project plans. From initiation to project completion, I organize project work, setting priorities, and tracking progress. Proficient in using tools such as Jira, Trello and Asana
+I coordinate project activities, timelines, and teams ensuring a smooth execution aligned with project plans. From initiation to project completion, I organize project work, setting priorities, and tracking progress. Proficient in using tools such as Jira, Trello and Asana.
 
 **- ✅ Data Analysis.**
-To support project development, I conduct research on relevant topics and analyze data to inform decision-making and strategy. I'm proficient in data cleaning, validation, and visualisation using Excel and SQL
+To support project development, I conduct research on relevant topics and analyze data to inform decision-making and strategy. I'm proficient in data cleaning, validation, and visualisation using Excel and SQL.
 
 **- ✅ UX Research and Design.**
 I help with product development, from ideation and design to testing and launch with an understanding of users motivations in an agile environment. I have gained experience in different agile frameworks like Scrum and Kanban, participating in sprint planning, reviews and retrospectives.
@@ -61,7 +61,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(+27) 67-487-3319</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -73,11 +73,11 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/belindamahachi">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/belindamahachi">LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Blog</a></td>
     </tr>
   </tbody>
 </table>
