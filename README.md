@@ -25,7 +25,7 @@ I help with product development, from ideation and design to testing and launch 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Tabletop Menu Tablets Rollout.**
 ![image](File 1.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -33,7 +33,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Nova Bank: Digital Banking App.**
 
 ![image](File 2.png)
 
@@ -41,7 +41,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Rural vs Urban Water Access Dataset.**
 
 ![image](Data visualization.png)
 
@@ -76,7 +76,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://linkedin.com/in/belindamahachi">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
+      <td>📝</td>
       <td><a href="https://www.youtube.com/@LearnwithEtuk">Blog</a></td>
     </tr>
   </tbody>
