@@ -23,7 +23,7 @@ I help with product development, from ideation and design to testing and launch 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects I've worked on.*
 
 **Tabletop Menu Tablets Rollout.**
 ![image](File 1.png)
@@ -41,7 +41,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Rural vs Urban Water Access Dataset.**
+**Rural vs Urban Water Access Analysis.**
 
 ![image](Data visualization.png)
 
@@ -76,8 +76,4 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://linkedin.com/in/belindamahachi">LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📝</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Blog</a></td>
-    </tr>
-  </tbody>
-</table>
+   
