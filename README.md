@@ -17,7 +17,7 @@ I coordinate project activities, timelines, and teams ensuring a smooth executio
 To support project development, I conduct research on relevant topics and analyze data to inform decision-making and strategy. I'm proficient in data cleaning, validation, and visualisation using Excel and SQL.
 
 **- ✅ UX Research and Design.**
-I help with product development, from ideation and design to testing and launch with an understanding of users motivations in an agile environment. I have gained experience in different agile frameworks like Scrum and Kanban, participating in sprint planning, reviews and retrospectives.
+I help with product development, from ideation and design to testing and launch with an understanding of users motivations in an agile environment. I have gained experience in different agile frameworks like Scrum and Kanban, participating in sprint planning, reviews and retrospectives. 
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -28,16 +28,16 @@ I help with product development, from ideation and design to testing and launch 
 **Tabletop Menu Tablets Rollout.**
 ![image](File 1.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+ Launched a pilot project to test out the impact of installing new tabletop menu tablets at a small restaurant.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://drive.google.com/file/d/1qKstbWPLjPpxzOCJJgAsXPeG60i7eTLA/view?usp=drive_link)
 
 **Nova Bank: Digital Banking App.**
 
 ![image](File 2.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Designed a digital banking app, allowing users to have more control over handling disputes. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
@@ -45,7 +45,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 ![image](Data visualization.png)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+Analyzed the UNICEF water access dataset, showing rural and urban variations. 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
