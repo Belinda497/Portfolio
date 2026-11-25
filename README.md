@@ -47,7 +47,7 @@ Designed a digital banking app, allowing users to have more control over handlin
 
 Analyzed the UNICEF water access dataset, showing rural and urban variations. 
 
-[Read More](https://drive.google.com/file/d/1x4EuJjG1Yn3080cgvbRh6r421Fobd_xH/view?usp=sharing)
+[Read More](https://github.com/Belinda497/Excel-Projects/blob/main/README.md)
 
 
 ## CONTACT DETAILS
@@ -69,7 +69,7 @@ Analyzed the UNICEF water access dataset, showing rural and urban variations.
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://drive.google.com/file/d/15ttAu-L7nCUyUrlpJWZL2TNCKm-7SGXw/view?usp=sharing">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
