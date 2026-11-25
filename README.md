@@ -47,7 +47,7 @@ Designed a digital banking app, allowing users to have more control over handlin
 
 Analyzed the UNICEF water access dataset, showing rural and urban variations. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+[Read More](https://drive.google.com/file/d/1x4EuJjG1Yn3080cgvbRh6r421Fobd_xH/view?usp=sharing)
 
 
 ## CONTACT DETAILS
