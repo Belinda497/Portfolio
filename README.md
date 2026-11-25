@@ -31,7 +31,7 @@ I help with product development, from ideation and design to testing and launch 
  Launched a pilot project to test out the impact of installing new tabletop menu tablets at a small restaurant.
 
 
-[Read More](https://drive.google.com/file/d/1qKstbWPLjPpxzOCJJgAsXPeG60i7eTLA/view?usp=drive_link)
+[Read More](https://drive.google.com/file/d/1qKstbWPLjPpxzOCJJgAsXPeG60i7eTLA/view?usp=sharing)
 
 **Nova Bank: Digital Banking App.**
 
@@ -39,7 +39,7 @@ I help with product development, from ideation and design to testing and launch 
 
 Designed a digital banking app, allowing users to have more control over handling disputes. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://drive.google.com/file/d/1x4EuJjG1Yn3080cgvbRh6r421Fobd_xH/view?usp=sharing)
 
 **Rural vs Urban Water Access Analysis.**
 
